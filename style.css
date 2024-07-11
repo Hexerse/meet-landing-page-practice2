@@ -62,7 +62,10 @@ body{
 }
 
 .header{
+    display: flex;
     margin-bottom: 3rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .page1Images{
